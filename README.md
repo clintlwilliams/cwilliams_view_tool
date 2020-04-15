@@ -1,4 +1,4 @@
-# DevcampViewTool
+# CwilliamsViewTool
 
 > Various view specific methods for applications I use.
 
@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool'
+gem 'cwilliams_view_tool'
 ```
 
 And then execute:
@@ -16,12 +16,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_view_tool
+    $ gem install cwilliams_view_tool
 
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'Clint L. Williams', 'All rights reserved'
+CwilliamsViewTool::Renderer.copyright 'Clint L. Williams', 'All rights reserved'
 ```
 
 ## Development
